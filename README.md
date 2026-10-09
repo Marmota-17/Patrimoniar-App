@@ -1,0 +1,1 @@
+﻿# Patrimoniar AR - App Móvil
